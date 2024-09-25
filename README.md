@@ -1,5 +1,14 @@
-# OCRTASK-IIT-Roorkee-
-OCR and Document Search Web Application Prototype
+---
+title: OCR Document Search
+emoji: 🦀
+colorFrom: green
+colorTo: purple
+sdk: gradio
+sdk_version: 4.44.0
+app_file: app.py
+pinned: false
+license: mit
+---
 # OCR and Document Search Web Application
 
 This project is a web-based prototype that performs Optical Character Recognition (OCR) on an uploaded image containing text in both Hindi and English. The web application also provides a basic keyword search functionality to search for text in the extracted content.
@@ -28,3 +37,6 @@ First, clone the repository from Hugging Face Spaces or GitHub (if available):
 
 ```bash
 git clone https://huggingface.co/spaces/Satyam0077/OCR-Document-Search
+
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
